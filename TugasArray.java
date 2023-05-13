@@ -40,6 +40,8 @@ public class TugasArray {
                }
                System.out.println("\nHasil penguranggan anda yaitu: "+ hasil);
 
+          }else{
+               System.out.println("Pilihan diluar jangkauan!");
           }
 
           
